@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-isoontcp",
+  "version": "0.0.1",
+  "description": "A Node-RED node to setup ISO-ON-TCP (RFC1006) connectivity.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biancode/node-red-contrib-isoontcp.git"
+  },
+  "keywords": [ "node-red", "ISO-ON-TCP", "S7", "PLC", "Siemens" ],
+  "author": {
+    "name": "Klaus Landsdorf",
+    "email" : "klaus.landsdorf@bianco-royal.de"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biancode/node-red-contrib-isoontcp/issues"
+  },
+  "node-red": {
+    "nodes": {
+      "RFC1006": "isoontcp.js"
+    }
+  },
+  "dependencies": {
+  }
+}
