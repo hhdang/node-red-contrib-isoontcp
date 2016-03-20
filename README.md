@@ -16,6 +16,9 @@ see GitHub - https://github.com/plcpeople/nodeS7
 
 ## PLC's
 
+Simulator (free for 30 days) - http://www.ait-software.de/de-de/Downloads
+
+Simulator S7 - http://www.ibhsoftec.com/S7-Simulation
 
 ## HMI
 
